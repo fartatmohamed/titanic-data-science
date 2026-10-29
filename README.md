@@ -1,38 +1,33 @@
-# Titanic Survival Analysis 🚢
+# Titanic Data Science Project 🚢
 
-## Project Overview
-This project explores the Titanic dataset to understand the factors that influenced passenger survival. It uses data analysis and machine learning techniques to extract insights and build a predictive model.
+## 📌 About the Project
+This project analyzes the Titanic dataset using Python and Jupyter Notebook to explore passenger data and understand the factors associated with survival.
 
-## Objectives
-- Explore and understand the dataset.
-- Clean and preprocess the data.
-- Perform Exploratory Data Analysis (EDA).
-- Visualize survival patterns.
-- Build and evaluate a machine learning model.
-
-## Technologies Used
+## 🛠️ Tools & Technologies
 - Python
+- Jupyter Notebook
+- Visual Studio Code
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
-- Jupyter Notebook
 
-## Project Workflow
-1. Data loading and exploration
-2. Data cleaning and preprocessing
-3. Exploratory Data Analysis
-4. Feature engineering
-5. Model training and evaluation
+## 📊 Project Workflow
+- Load and explore the dataset.
+- Clean and preprocess the data.
+- Perform exploratory data analysis (EDA).
+- Create visualizations to identify patterns in passenger survival.
 
-## How to Run
-1. Clone this repository.
-2. Install the required libraries using `pip install -r requirements.txt`.
-3. Open `titanic_analysis.ipynb` in Jupyter Notebook.
-4. Run the notebook cells.
+## 📁 Project Files
+- `titanic.ipynb`: Jupyter Notebook containing the analysis and code.
+- `train.csv`: Dataset used for the analysis.
 
-## Results
-Results, visualizations, and model performance are presented in the notebook.
+## 🚀 How to Run the Project
+1. Clone or download this repository.
+2. Open the project folder in Visual Studio Code.
+3. Install Python and the Jupyter extension if needed.
+4. Install the required libraries.
+5. Open `titanic.ipynb` and run the notebook cells.
 
-
+## 👨‍💻 Author
+Mohamed Fartat
