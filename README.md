@@ -35,5 +35,4 @@ This project explores the Titanic dataset to understand the factors that influen
 ## Results
 Results, visualizations, and model performance are presented in the notebook.
 
-## Author
-Your Name
+
